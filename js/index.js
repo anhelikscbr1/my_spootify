@@ -58,4 +58,6 @@ const creaCards = () => {
 
 btnBuscar.addEventListener('keypress', () =>{
     console.log('tecla', btnBuscar.value)
+    let temp = []
+    temp.topTwoHundred.filter((item)  )
 })
